@@ -1,0 +1,2 @@
+# eks-cluter
+for prctice 
